@@ -1,0 +1,9 @@
+Building MBIT
+
+See doc/readme-qt.rst for instructions on building MBIT Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MBIT.
+
+See doc/build-*.txt for instructions on building MBITd,
+the intended-for-services, no-graphical-interface, reference
+implementation of MBIT.
